@@ -126,12 +126,12 @@ Sincerely,
 ❌ Ignoring submission guidelines – Check if the university requires a specific format. 
 🎯 Final Checklist Before Submission
  
-✅ Did you ask the right person? 
-✅ Does the letter include academic & personal strengths? 
-✅ Is it personalized with real examples? 
-✅ Is it on official letterhead (if needed)? 
-✅ Is it formatted correctly & in PDF? 
-📩 Need Help?
+- ✅ Did you ask the right person? 
+- ✅ Does the letter include academic & personal strengths? 
+- ✅ Is it personalized with real examples? 
+- ✅ Is it on official letterhead (if needed)? 
+- ✅ Is it formatted correctly & in PDF? 
+- 📩 Need Help?
 
 📧 Email: support@britishenglishacademy.com
 
