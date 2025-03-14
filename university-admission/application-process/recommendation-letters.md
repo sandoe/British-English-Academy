@@ -108,10 +108,8 @@ Sincerely,
 📤 How to Submit a Recommendation Letter
 
 📌 Submission Methods: 
-✅ Direct upload – Many universities require recommenders to upload the letter themselves. 
-
-✅ Email submission – Some schools allow PDF/Word letters via email. 
-
+✅ Direct upload – Many universities require recommenders to upload the letter themselves.
+✅ Email submission – Some schools allow PDF/Word letters via email.
 ✅ Printed & signed copy – Needed for some traditional universities.
 
 📌 Tips for Submission: 
