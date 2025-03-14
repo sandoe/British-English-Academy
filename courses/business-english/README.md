@@ -71,3 +71,24 @@ The **Business English** section is divided into the following subcategories:
 ✅ **Mock Interviews & Role-Plays** – Build confidence in real situations  
 
 ---
+
+
+---
+
+## 🚀 How to Get Started?
+1. **Choose a category** that fits your learning needs.
+2. **Follow the lessons** in each subcategory.
+3. **Practice with exercises, role-plays & mock scenarios**.
+4. **Use resources like vocabulary lists & templates**.
+5. **Apply what you learn in real business situations**.
+
+---
+
+## 📩 Need Help?
+If you have any questions or need personalized coaching, **contact us** at:  
+📧 **Email:** `support@britishenglishacademy.com`
+
+---
+
+**🎉 Start improving your Business English today!**  
+🚀 **Your journey to professional fluency begins here!**
