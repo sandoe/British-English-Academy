@@ -109,7 +109,9 @@ Sincerely,
 
 📌 Submission Methods: 
 ✅ Direct upload – Many universities require recommenders to upload the letter themselves. 
+
 ✅ Email submission – Some schools allow PDF/Word letters via email. 
+
 ✅ Printed & signed copy – Needed for some traditional universities.
 
 📌 Tips for Submission: 
@@ -121,6 +123,7 @@ Sincerely,
  
 ❌ Asking the wrong person – Don't choose someone who barely knows you. 
 ❌ Waiting until the last minute – Give your recommender at least 4-6 weeks. 
+
 ❌ Submitting generic letters – Make sure your letter is specific & detailed. 
 ❌ Ignoring submission guidelines – Check if the university requires a specific format. 
 🎯 Final Checklist Before Submission
