@@ -19,21 +19,37 @@ This repository is organized into folders by grade level, from Kindergarten to 1
 
 ## Repository Structure
 British-English-Academy/
+
 ├── 01_Kindergarten/
+
 │   ├── Lesson1.md
+
 │   ├── Lesson2.md
+
 │   └── ...
+
 │
+
 ├── 02_First_Grade/
+
 │   ├── Lesson1.md
+
 │   └── ...
+
 │
+
 ├── ...
+
 |
+
 ├── 10_Tenth_Grade/
+
 │   ├── Lesson1.md
+
 │   └── ...
+
 │
+
 ├── Assessments/
 │   ├── Kindergarten_Assessments.md
 │   ├── Grade1_Assessments.md
