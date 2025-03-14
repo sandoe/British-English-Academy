@@ -1,3 +1,60 @@
+# First Grade - Lesson 01: Greetings & Everyday Conversations 🗣️👋  
+
+## 1. Overview  
+**Topic:** Expanding on greetings and simple conversations.  
+**Objective:** Learn basic greetings, polite expressions, and simple question-answer interactions.  
+
+---
+
+## 2. Learning Objectives  
+- Students will learn and practice greetings for different times of the day.  
+- Students will respond to simple questions in English.  
+- Students will use polite expressions in daily conversations.  
+
+---
+
+## 3. Vocabulary & Phrases  
+
+### Greetings & Responses 🌞🌙  
+- **Good morning!** → "Good morning!" ☀️  
+- **Good afternoon!** → "Good afternoon!" 🌤️  
+- **Good evening!** → "Good evening!" 🌙  
+- **Goodbye!** → "Goodbye!" 👋  
+- **See you later!** → "See you later!" 👋  
+- **How are you?** → "I’m fine, thank you!" 😊  
+
+### Everyday Conversations 💬  
+- **"What is your name?"** → "My name is [Student’s Name]."  
+- **"How old are you?"** → "I am [6/7] years old."  
+- **"Where do you live?"** → "I live in [City/Town]."  
+- **"Please" and "Thank you."**  
+
+---
+
+## 4. Pronunciation Tips  
+- **Encourage slow and clear speaking** to build confidence.  
+- **Use gestures** (waving for hello, shaking hands for introduction).  
+- **Practice rhythm** with questions and answers to build natural fluency.  
+
+---
+
+## 5. Warm-Up (5–7 Minutes)  
+
+### A) Greeting Circle 🔄  
+1. Students sit in a circle.  
+2. Each student takes turns greeting the class:  
+   - "**Good morning, my name is [Student’s Name]!**"  
+   - The rest of the class responds: "**Good morning, [Student’s Name]!**"  
+
+### B) Greeting Song 🎶  
+_(Tune: "Are You Sleeping?")_  
+
+*Good morning, good morning,
+How are you? How are you?
+I am fine, thank you!
+I am fine, thank you!
+How about you? How about you?*
+
 👉 **Encourage students to take turns asking and answering!**  
 
 ---
