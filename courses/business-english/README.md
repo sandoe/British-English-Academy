@@ -72,9 +72,6 @@ The **Business English** section is divided into the following subcategories:
 
 ---
 
-
----
-
 ## 🚀 How to Get Started?
 1. **Choose a category** that fits your learning needs.
 2. **Follow the lessons** in each subcategory.
