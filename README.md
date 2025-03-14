@@ -18,53 +18,18 @@ This repository is organized into folders by grade level, from Kindergarten to 1
 ---
 
 ## Repository Structure
-British-English-Academy/
 
-├── 01_Kindergarten/
+- **Kindergarten to 10th Grade Folders**  
+  Each grade has its own folder containing markdown lesson files (e.g., `Lesson1.md`, `Lesson2.md`). Each lesson covers specific topics, practice exercises, and homework suggestions.
 
-│   ├── Lesson1.md
+- **Assessments**  
+  A separate folder that holds quizzes, tests, or grading rubrics for each grade level, making it easy to evaluate student progress.
 
-│   ├── Lesson2.md
+- **Resources**  
+  A collection of helpful materials such as worksheets, reference documents (vocabulary lists, grammar guides), and multimedia files (audio, video, images). These materials can be used to reinforce and enhance lessons.
 
-│   └── ...
-
-│
-
-├── 02_First_Grade/
-
-│   ├── Lesson1.md
-
-│   └── ...
-
-│
-
-├── ...
-
-|
-
-├── 10_Tenth_Grade/
-
-│   ├── Lesson1.md
-
-│   └── ...
-
-│
-
-├── Assessments/
-│   ├── Kindergarten_Assessments.md
-│   ├── Grade1_Assessments.md
-│   └── ...
-│
-├── Resources/
-│   ├── Worksheets/
-│   ├── Reference_Material/
-│   └── Multimedia/
-│
-└── README.md
-
-1. **Grade Folders**: Contain lesson files (`Lesson1.md`, `Lesson2.md`, etc.) with clear learning outcomes, practice exercises, and homework suggestions.  
-2. **Assessments**: Houses quizzes, tests, or grading rubrics for each grade level, enabling teachers to evaluate student progress.  
-3. **Resources**: Offers worksheets, reference material (vocabulary lists, grammar guides), and multimedia resources (images, audio, and video).
+- **README.md**  
+  An overview of the curriculum, including its objectives, how to navigate the repository, and how to contribute or get in touch.
 
 ---
 
@@ -79,10 +44,14 @@ British-English-Academy/
 
 ## How to Use This Curriculum
 
-1. **Navigate by Grade**: Choose the relevant grade folder to find lessons tailored to that level.  
-2. **Supplement with Resources**: Enhance learning with additional worksheets, multimedia content, and reference materials in the `Resources` folder.  
-3. **Assess Progress**: Use the `Assessments` folder to track student comprehension and identify areas needing review.  
-4. **Adapt if Needed**: Each lesson is flexible – combine or alter lessons to fit your specific classroom or learner needs.
+1. **Navigate by Grade**  
+   Choose the relevant grade folder to find lessons tailored to that level.  
+2. **Supplement with Resources**  
+   Enhance learning with additional worksheets, multimedia content, and reference materials in the `Resources` folder.  
+3. **Assess Progress**  
+   Use the `Assessments` folder to track student comprehension and identify areas needing review.  
+4. **Adapt if Needed**  
+   Each lesson is flexible – combine or alter lessons to fit your specific classroom or learner needs.
 
 ---
 
