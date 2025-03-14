@@ -150,5 +150,3 @@ Sincerely,
 ✅ **Professionelt layout, der ser godt ud på GitHub!**  
 
 ---
-
-📢 **Vil du have flere detaljer om et specifikt emne, som "Scholarship Recommendation Letters" eller "LORs for MBA Applications"?** 😊
